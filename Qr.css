@@ -32,15 +32,16 @@
     outline: none;
 }
 .qr-app button{
-    width: 90%;
+    width: 80%;
     margin: 10px;
     padding: 5px;
     background-color: #87CEEB;
     
 }
 #img{
-    margin: 5px 5px 5px;
+    margin: 5px 50px 5px;
 }
+
 
 
 
