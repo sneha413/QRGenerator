@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+   width: 100%;  
+   min-height: 100vh; 
+   background-color: antiquewhite;
+   position: absolute;
+}
+.qr-app{
+   background-color: #fff; 
+   min-width: 20%;
+   min-height: 20px;
+   justify-content: center;
+   margin: 20% 40%; 
+   border-radius: 10px;
+   position: absolute;
+}
+.qr-app p{
+    margin:  10px ;
+    padding: 5px;
+}
+.qr-app input {   
+    padding: 5px;
+    border: none;
+    background-color: #D8D8D8;
+    height: 30px;
+    margin: auto 10px 10px;
+    width: 90%;
+    outline: none;
+}
+.qr-app button{
+    width: 90%;
+    margin: 10px;
+    padding: 5px;
+    background-color: #87CEEB;
+    
+}
+#img{
+    margin: 5px 5px 5px;
+}
+
+
+
